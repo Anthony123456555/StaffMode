@@ -2,7 +2,7 @@ name: StaffMode
 author: ItsMax123
 main: Max\StaffMode\Main
 version: 2.1.1
-api: [3.0.0]
+api: 3.0.0
 mcpe-protocol: 471
 commands:
  staffmode:
